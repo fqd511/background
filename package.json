@@ -1,0 +1,22 @@
+{
+  "name": "@digvan/background",
+  "version": "1.0.0",
+  "description": "a plugable tool to render different background in a page",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fqd511/background.git"
+  },
+  "keywords": [
+    "background"
+  ],
+  "author": "digvan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fqd511/background/issues"
+  },
+  "homepage": "https://github.com/fqd511/background#readme"
+}
