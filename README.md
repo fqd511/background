@@ -12,10 +12,10 @@ When you found an amazing css effect on website like codepen.io, but it's in sep
 // install it in your project
 npm install @digvan/background
 
-// in you project,'id' is for the element you want to render background for, 'dynamicParticle' is from a effect list below
+// in you project,'canvas-id' is canvas element id, 'dynamicParticle' is from a effect list below
 import background from "@digvan/background"
 
-background('id').render('dynamicParticle')
+background('canvas-id').render('dynamicParticle')
 
 ```
 
