@@ -1,4 +1,4 @@
-import dynamicParticle from "/dynamic-particle/demo"
+import dynamicParticle from "./dynamic-particle"
 
 export default background = function (id) {
 	let backgroundList = {
