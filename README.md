@@ -2,6 +2,10 @@
 
 > A tool to render different backgrounds, background code are from website like codepen.io
 
+## WARNING
+
+this repository is abandoned , do not use it
+
 ## What is this?
 
 When you found an amazing css effect on website like codepen.io, but it's in seperate files(html, javascript, css), you cannot use it in your project immediately,and here I offer a solution:
